@@ -28,7 +28,7 @@ education:
   courses:
   - course: BSc in Computer Science
     institution: Shanghaitech University
-    year: 2020
+    year: 2016-now
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -37,11 +37,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact: xieling@shanhaitech.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto: xieling@shanhaitech.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/Jack12xl/
-- icon: itch_io
+- icon: itchio
   icon_pack: fab
   link: https://jack12xl.itch.io/
 # Link to a PDF of your resume/CV from the About widget.
