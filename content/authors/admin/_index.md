@@ -18,11 +18,13 @@ organizations:
   url: "http://www.shanghaitech.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision, computer graphics, and machine learning.
+bio: My research interests include computer vision, computer graphics, and Deep learning.
 
 interests:
-- Play video games
-- Make video games
+- Computer vision
+- Computer graphics
+- Deep learning
+- Game development
 
 education:
   courses:
