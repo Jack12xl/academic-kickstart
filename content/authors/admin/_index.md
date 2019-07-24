@@ -43,7 +43,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Jack12xl/
-- icon: itchio
+- icon: itch-io
   icon_pack: fab
   link: https://jack12xl.itch.io/
 # Link to a PDF of your resume/CV from the About widget.
