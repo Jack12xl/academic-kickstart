@@ -24,7 +24,7 @@ interests:
 - Computer vision
 - Computer graphics
 - Deep learning
-- Game development
+- Game development with Unity and Unreal
 
 education:
   courses:
