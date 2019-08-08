@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-06-24"
   date_end = "2019-07-24"
-  description = "Help solve problems concerned with Unity and game development and judge sutdents' performance. Supervised by [Brian Cox](http://www.briancox.be) from [Ubisoft](https://www.ubisoft.com/en-US/studio/shanghai.aspx)."
+  description = "Help solve problems concerned with Unity and game development and judge students' performance. Supervised by [Brian Cox](http://www.briancox.be) from [Ubisoft](https://www.ubisoft.com/en-US/studio/shanghai.aspx)."
 
 [[item]]
   organization = "Shanghaitech SIST"
