@@ -64,4 +64,4 @@ user_groups:
 
 Currently, Ling Xie is a senior student of Computer Science(once Physics) in Shanghaitech University. His research interests include **Computer Vision**, **Computer Graphics** and **Deep learning**. 
 
-Besides doing research, he also likes playing video games and making his own.
+Besides research, I also interests in playing video games and making his own.
