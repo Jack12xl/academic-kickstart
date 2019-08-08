@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = "in Shanghaitech"
@@ -19,24 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Brian Cox"
-  organization_url = "http://www.briancox.be"
+  organization = "Shanghaitech SCA"
+  organization_url = "http://sca.shanghaitech.edu.cn/main.htm"
   title = "Game development with Unity"
   url = "http://www.briancox.be/?page=unity"
-  # certificate_url = "https://www.coursera.org"
+  certificate_url = ""
   date_start = "2019-06-24"
-  date_end = "2019-7-24"
+  date_end = "2019-07-24"
   description = "Help solve problems concerned with Unity and game development and judge sutdents' performance. Supervised by [Brian Cox](http://www.briancox.be) from [Ubisoft](https://www.ubisoft.com/en-US/studio/shanghai.aspx)."
 
 [[item]]
-  organization = "Shenghua Gao"
-  organization_url = "https://scholar.google.com/citations?hl=en&user=fe-1v0MAAAAJ&view_op=list_works&citft=3&email_for_op=Jack123xieling%40gmail.com&gmla=AJsN-F5FkH9FdHB93Waj6QTAZkpvipFHCLaNNcccwrB4cvWksulC1NYZ7fs50OmGLThGlCBnLSlDOEjqUyhrSEXAQlR30wKQP56WOMB8laQoU2sX3NnqcVKC5Bbe0kyTUY9SxTa2xcDUOHeZL3lOYGEyIoNnBk_t1TdWJAwcGd3AHu_N-cQ26xpECZuIRDFeE10sMvsoDCo04KddE5J-xlbBP4OpjogUuwWtn2d3ZPI28De-WVU_LAMxvofdMnIjRQQzNv-idFJt"
+  organization = "Shanghaitech SIST"
+  organization_url = "http://sist.shanghaitech.edu.cn"
   title = "Computer Vision I"
   url = "https://svip-lab.github.io"
-  # certificate_url = "https://www.edx.org"
-  date_start = "2019-9-15"
+  certificate_url = ""
+  date_start = "2019-09-15"
   date_end = ""
-  description = "Help solve problems related to computer vision. Supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=en&user=fe-1v0MAAAAJ&view_op=list_works&citft=3&email_for_op=Jack123xieling%40gmail.com&gmla=AJsN-F5FkH9FdHB93Waj6QTAZkpvipFHCLaNNcccwrB4cvWksulC1NYZ7fs50OmGLThGlCBnLSlDOEjqUyhrSEXAQlR30wKQP56WOMB8laQoU2sX3NnqcVKC5Bbe0kyTUY9SxTa2xcDUOHeZL3lOYGEyIoNnBk_t1TdWJAwcGd3AHu_N-cQ26xpECZuIRDFeE10sMvsoDCo04KddE5J-xlbBP4OpjogUuwWtn2d3ZPI28De-WVU_LAMxvofdMnIjRQQzNv-idFJt)"
+  description = "Help solve problems related to computer vision. Supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=en&user=fe-1v0MAAAAJ&view_op=list_works&citft=3&email_for_op=Jack123xieling%40gmail.com&gmla=AJsN-F5FkH9FdHB93Waj6QTAZkpvipFHCLaNNcccwrB4cvWksulC1NYZ7fs50OmGLThGlCBnLSlDOEjqUyhrSEXAQlR30wKQP56WOMB8laQoU2sX3NnqcVKC5Bbe0kyTUY9SxTa2xcDUOHeZL3lOYGEyIoNnBk_t1TdWJAwcGd3AHu_N-cQ26xpECZuIRDFeE10sMvsoDCo04KddE5J-xlbBP4OpjogUuwWtn2d3ZPI28De-WVU_LAMxvofdMnIjRQQzNv-idFJt) from [Shanghaitech](http://www.shanghaitech.edu.cn)"
   
 # [[item]]
 #   organization = "DataCamp"
