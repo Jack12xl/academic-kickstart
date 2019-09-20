@@ -1,5 +1,5 @@
 ---
-title: "Learning Semantics-aware Distance Map with Semantics Layering Network for Amodal Instance Segmentation"
+title: "Scale-Adaptive CNN Based Crowd Counting and Dynamic Supervision"
 authors:
 - Zhenxin Li
 - Jin Li
