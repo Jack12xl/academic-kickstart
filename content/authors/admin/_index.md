@@ -66,4 +66,4 @@ Hi there! I'm a senior student of Computer Science(once Physics) in Shanghaitech
 
 Besides research, I also interest in playing video games and making my own.
 
-Currenly, I'm looking for a master/PHD program on Computer Science and Computer Graphics. If you are interested in me, feel free to call me !
+Currenly, I'm looking for a master/PHD program on Computer Vision and Computer Graphics. If you are interested in me, feel free to call me !
