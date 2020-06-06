@@ -68,4 +68,4 @@ My research interests include **Computer Vision**, **Computer Graphics** and **D
 
 Besides these research topic, I also interest in playing video games and making my own.
 
-Currenly, I'm looking for a (0.5 year of 1 year, mostly depends on when Upenn opens)practice intern. If you are interested in me, feel free to contact me !
+Currenly, I'm looking for a (0.5 or 1 year, mostly depends on when Upenn would open)practice intern. If you are interested in me, feel free to contact me !
