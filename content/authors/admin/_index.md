@@ -62,8 +62,10 @@ user_groups:
 - Visitors
 ---
 
-Hi there! I'm a senior student of Computer Science(once Physics) in Shanghaitech University. My research interests include **Computer Vision**, **Computer Graphics** and **Deep learning**. 
+Hi there! I'm a senior student of Computer Science in Shanghaitech University. If condition(COVID 19) permits, I would purse master Computer Sicence program in University of Pennsylvania. 
 
-Besides research, I also interest in playing video games and making my own.
+My research interests include **Computer Vision**, **Computer Graphics** and **Deep learning**. 
 
-Currenly, I'm looking for a master/PHD program on Computer Vision and Computer Graphics. If you are interested in me, feel free to call me !
+Besides these research topic, I also interest in playing video games and making my own.
+
+Currenly, I'm looking for a (0.5 year of 1 year, mostly depends on when Upenn opens)practice intern. If you are interested in me, feel free to contact me !
