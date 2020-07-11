@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hugo default output directory
 /public
 
@@ -17,4 +18,11 @@ resources/
 # OSX
 .DS_Store
 
+=======
+# IDEs
+>>>>>>> fc482b49ae6d850db625e4cce19aeef9fcb0d99a
 .idea/
+
+# Hugo
+resources/
+public/
