@@ -71,4 +71,4 @@ My research interests include **Computer Vision**, **Computer Graphics** and **D
 
 Besides these research topic, I also interest in playing video games and making my own.
 
-Currently, I plan to defer for 0.5 ( most likely 1 ) year and stay at ShanghaiTech University as a Research Assistant. Supervised by Professor [Xiaopei Liu](http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/), I am focusing on learning based fluid simulation.
+Currently, I plan to defer for 0.5 ( most likely, 1 ) year and stay at ShanghaiTech University as a Research Assistant. Supervised by Professor [Xiaopei Liu](http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/), I am focusing on learning based fluid simulation.
