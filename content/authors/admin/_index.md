@@ -45,7 +45,10 @@ social:
   link: https://github.com/Jack12xl/
 - icon: itch-io
   icon_pack: fab
-  link: https://jack12xl.itch.io/
+  link: https://jack12xl.itch.io/ 
+- icon: steam
+  icon_pack: fab
+  link: https://steamcommunity.com/profiles/76561198327303073/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,4 +71,4 @@ My research interests include **Computer Vision**, **Computer Graphics** and **D
 
 Besides these research topic, I also interest in playing video games and making my own.
 
-Currenly, I'm looking for a (0.5 or 1 year, mostly depends on when Upenn would open)practice intern. If you are interested in me, feel free to contact me !
+Currenly, I plan to defer for 0.5 ( most likely 1 ) year and stay at ShanghaiTech University as a Research Assistant. Supervised by Professor [Xiaopei Liu](http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/), I am focusing on learning based fluid simulation.
