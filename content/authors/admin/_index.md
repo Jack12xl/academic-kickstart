@@ -31,7 +31,7 @@ education:
   courses:
   - course: BSc in Computer Science
     institution: Shanghaitech University
-    year: 2016-now
+    year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
