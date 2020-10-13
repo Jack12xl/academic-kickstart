@@ -4,25 +4,27 @@ authors:
 - Anpei Chen
 - Ruiyang Liu
 - Ling Xie
-- Jinyi Yu
+- Zhang Chen
+- Hao Su
+- Jingyi Yu
 
-date: "2020-07-01T00:00:00Z"
+date: "2020-07-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-01T00:00:00Z"
+publishDate: "2020-7-71T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *2019 IEEE International Conference on Multimedia & Expo Workshops (ICMEW) 2019*"
-publication_short: ""
+publication: "Under *review*"
+publication_short: "Under review"
 
-abstract: Generating portrait images from a single latent space facing the problem of entangled attributes, making it difficult to explicitly adjust the generation on specific attributes, e.g., contour and viewpoint control or dynamic styling. Therefore, we propose to decompose the generation space into two subspaces: geometric and texture space. We first encode portrait scans with a semantic occupancy field (SOF), which represents semantic-embedded geometry structure and output free viewpoint semantic segmentation maps. Then we design a semantic instance wised(SIW) StyleGAN to regionally styling the segmentation map. We capture 664 3D portrait scans for our SOF training and use real capture photos(FFHQ[12] and CelebA-HQ[16]) for SIW StyleGAN training. Adequate experiments show that our representations enable appearance consistent shape, pose, regional styles controlling, achieve state-of-the-art results, and generalize well in various application scenarios.
+abstract: Recently, GANs have been widely used for portrait generation. However, in the latent space learned by GANs, different attributes, such as pose, shape, and texture style, are generally entangled, making the explicit control of specific attributes difficult. To address this issue, we propose a SOFGAN image generator to decouple the latent space of portraits into a geometry space and a texture space. The latent codes sampled from the two subspaces are fed to two network branches separately, one to generate the 3D geometry of portraits with canonical pose, and the other to generate textures. The aligned 3D geometries also come with semantic part segmentation, encoded as a semantic occupancy field (SOF). The SOF allows the rendering of consistent 2D semantic segmentation maps at arbitrary views, which are then fused with the generated texture maps and stylized to a portrait photo using our semantic instance-wise (SIW) Module. Through extensive experiments, we show that our system can generate high quality portrait images with independently controllable geometry and texture attributes. The method also generalizes well in various applications such as appearance-consistent facial animation and dynamic styling.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -35,7 +37,8 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://ieeexplore.ieee.org/document/8795054
+url_pdf: https://arxiv.org/abs/2007.03780
+url_code: https://github.com/apchenstu/sofgan
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''

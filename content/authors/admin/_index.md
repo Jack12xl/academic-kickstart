@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Student
+role: Research Assistent
 
 # Organizations/Affiliations
 organizations:
@@ -66,11 +66,11 @@ user_groups:
 - Visitors
 ---
 
-Hi there! I'm a senior student of Computer Science in Shanghaitech University. If condition(COVID 19) permits, I would purse master Computer Sicence program in University of Pennsylvania. 
+Hi there! I'm currently a research assistant at Shanghaitech University and a graduate candidate at Upenn
 
 My research interests include **Computer Vision**, **Computer Graphics** and **Deep learning**. 
 
 Besides these research topic, I also interest in playing video games and making my own.
 
 
-Currently, I plan to defer for 0.5 ( most likely, 1 ) year and stay at ShanghaiTech University as a Research Assistant. Supervised by Professor [Xiaopei Liu](http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/), I am focusing on learning based fluid simulation.
+Currently, I am taking Zoom courses from Upenn and being a Research Assistant at ShanghaiTech. Supervised by Professor [Xiaopei Liu](http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/), I am focusing on learning-based fluid simulation.
