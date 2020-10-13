@@ -33,7 +33,7 @@ tags:
 - Tracking
 - ReID
 
-featured: true
+featured: false
 
 links:
 # - name: Custom Link
