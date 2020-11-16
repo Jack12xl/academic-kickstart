@@ -1,37 +1,28 @@
 ---
 # Display name
-name: Ling Xie
+name: Jack12xl
 
 
 # Username (this should match the folder name)
 authors:
-- admin
+- stream
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research Assistent
 
 # Organizations/Affiliations
-organizations:
-- name: Shanghaitech University
-  url: "http://www.shanghaitech.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision, computer graphics, and Deep learning.
+bio: I'm a live streamer now!
 
 interests:
-- Computer vision
-- Computer graphics
-- Deep learning
-- Game development with Unity and Unreal
+- Red Dead Redemption 2 (currently on chapter 4th)
+- Human Fall Flat with my friends.
+- Monster Hunter Ice Bone
 
-education:
-  courses:
-  - course: BSc in Computer Science
-    institution: Shanghaitech University
-    year: 2016-2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,6 +38,9 @@ social:
 - icon: itch-io
   icon_pack: fab
   link: https://jack12xl.itch.io/ 
+- icon: steam
+  icon_pack: fab
+  link: https://steamcommunity.com/profiles/76561198327303073/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,10 +57,4 @@ user_groups:
 - Visitors
 ---
 
-Hi there! I'm currently a research assistant at Shanghaitech University and a graduate candidate at Upenn
 
-My research interests include **Computer Vision**, **Computer Graphics** and **Deep learning**. 
-
-Besides these research topic, I also interest in playing video games and making my own. Sometimes, I would live stream my playing games on Bilibili. Feel free to subscribe at my [living site](https://live.bilibili.com/22584735?visit_id=8qrvtfumaoow).
-
-Currently, I am taking Zoom courses from Upenn and being a Research Assistant at ShanghaiTech. Supervised by Professor [Xiaopei Liu](http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/), I am focusing on learning-based fluid simulation.
