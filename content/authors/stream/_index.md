@@ -57,7 +57,7 @@ user_groups:
 
  Sometimes, I would live stream my playing games on Bilibili. Feel free to subscribe at my [living site](https://live.bilibili.com/22584735?visit_id=8qrvtfumaoow)😲 and spam your gift🤖. 
 
- My streaming starting time could be from 20:00 pm to 2:00 am (GMT+8). Each live could last 1\~2 hour. 
+ My streaming starting time could vary from 20:00 pm to 2:00 am (GMT+8). Each live could last 1\~2 hour. 
 
  Note: I would stay completely silent🤐 because the microphone broke once time. So please enjoy the game🤔.
 
