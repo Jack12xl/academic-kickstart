@@ -18,10 +18,10 @@ superuser: true
 bio: I'm a live streamer now!
 
 interests:
-- Red Dead Redemption 2 (currently on chapter 4th)
-- Human Fall Flat with my friends.
+- Red Dead Redemption 2 (At chapter Four)
+- Human Fall Flat (together with my friends).
 - Monster Hunter Ice Bone
-
+- The witcher 3 wild hunt (At DLC Heart Stone)
 
 
 # Social/Academic Networking
@@ -29,18 +29,15 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto: xieling@shanhaitech.edu.cn'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Jack12xl/
 - icon: itch-io
   icon_pack: fab
   link: https://jack12xl.itch.io/ 
 - icon: steam
   icon_pack: fab
   link: https://steamcommunity.com/profiles/76561198327303073/
+- icon: twitch
+  icon_pack: fab
+  link: https://live.bilibili.com/22584735?visit_id=8qrvtfumaoow
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,4 +54,10 @@ user_groups:
 - Visitors
 ---
 
+ Sometimes, I would live stream my playing games on Bilibili. Feel free to subscribe at my [living site](https://live.bilibili.com/22584735?visit_id=8qrvtfumaoow)😲 and spam your gift🤖. 
 
+ My streaming starting time could be from 20:00 pm to 2:00 am (GMT+8). Each live could last 1\~2 hour. 
+
+ Note: I would stay completely silent🤐 because the microphone broke once time. So please enjoy the game🤔.
+
+ In most cases, I would play games available on PC steam, which includes but not limited to
