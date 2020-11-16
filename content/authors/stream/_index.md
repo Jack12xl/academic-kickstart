@@ -22,6 +22,7 @@ interests:
 - Human Fall Flat (together with my friends).
 - Monster Hunter Ice Bone
 - The witcher 3 wild hunt (At DLC Heart Stone)
+- CyberPunk 2077 (if released before 2077)
 
 
 # Social/Academic Networking
