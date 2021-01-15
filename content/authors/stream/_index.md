@@ -20,9 +20,9 @@ bio: I'm a live streamer now!
 interests:
 - Red Dead Redemption 2 (At chapter Four)
 - Human Fall Flat (together with my friends).
-- Monster Hunter Ice Bone
+- Monster Hunter Ice Bone(Master Rank 137)
 - The witcher 3 wild hunt (At DLC Heart Stone)
-- CyberPunk 2077 (if released before 2077)
+- Death Stranding
 
 
 # Social/Academic Networking
