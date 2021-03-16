@@ -1,6 +1,6 @@
 ---
 title: Ninjelesta
-summary: A freerunning game as the assignment 3 for unity development course from [Brian Cox](http://www.briancox.be/?page=unity). In this assigement, we mainly practice for visual effects, start menu, game localization and so on.
+summary: A freerunning game as the assignment 3 for unity development course from [Brian Cox](http://www.briancox.be/?page=unity). In this assigement, we mainly practice for visual effects, start menu, game localization and so on. Video [link](https://www.bilibili.com/video/BV1KK411K7qL/)
 
 tags:
 - Unity
