@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto: xieling@shanhaitech.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto: jack123xieling@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/Jack12xl/
@@ -63,10 +63,8 @@ user_groups:
 - Visitors
 ---
 
-Hi there! I'm currently a research assistant at Shanghaitech University and a graduate candidate at Upenn
+Hi there! I'm currently a graduate candidate at Upenn.
 
 My research interests include **Computer Vision**, **Computer Graphics** and **Deep learning**. 
 
 Besides these research topic, I also interest in playing video games and making my own. Sometimes, I would live stream my playing games on Bilibili. Feel free to subscribe at my [living site](https://live.bilibili.com/22584735?visit_id=8qrvtfumaoow). Check my **stream** tab for more info.
-
-Currently, I am taking Zoom courses from Upenn and being a Research Assistant at ShanghaiTech. Supervised by Professor [Xiaopei Liu](http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/), I am focusing on learning-based fluid simulation.
