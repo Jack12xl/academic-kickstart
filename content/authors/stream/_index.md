@@ -18,9 +18,8 @@ superuser: true
 bio: I'm a live streamer now!
 
 interests:
-- Red Dead Redemption 2 (At chapter Four)
-- Human Fall Flat (together with my friends).
-- Monster Hunter Ice Bone(Master Rank 137)
+- ~~Red Dead Redemption 2~~ (Already finished epilogue)
+- Monster Hunter Ice Bone(Master Rank 137, )
 - The witcher 3 wild hunt (At DLC Heart Stone)
 - Death Stranding
 

@@ -11,33 +11,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistent
+role: Student
 
 # Organizations/Affiliations
 organizations:
-- name: Shanghaitech University
-  url: "http://www.shanghaitech.edu.cn"
+- name: Upenn
+  url: "https://www.upenn.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer vision, computer graphics, and Deep learning.
 
 interests:
-- Computer vision
-- Computer graphics
-- Deep learning
-- Game development with Unity and Unreal
+- Computer vision (Style transfer & neural rendering)
+- Computer graphics (Physical Simulation)
+- Game development(Unity and Unreal)
 
 education:
   courses:
   - course: BSc in Computer Science
     institution: Shanghaitech University
     year: 2016-2020
+  - course: MS in Computer Science
+    institution: University of Pennsylvania
+    year: 2020-now
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+Social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto: jack123xieling@gmail.com'  # For a direct email link, use "mailto:test@example.org".
@@ -65,6 +67,7 @@ user_groups:
 
 Hi there! I'm currently a graduate candidate at Upenn.
 
-My research interests include **Computer Vision**, **Computer Graphics** and **Deep learning**. 
+My research interests include **Computer Vision(deep learning stuff)**, **Computer Graphics(Physical simulation)**.
 
-Besides these research topic, I also interest in playing video games and making my own. Sometimes, I would live stream my playing games on Bilibili. Feel free to subscribe at my [living site](https://live.bilibili.com/22584735?visit_id=8qrvtfumaoow). Check my **stream** tab for more info.
+Besides these research topic, I also interest in playing video games and making my own. 
+<!-- Sometimes, I would live stream my playing games on Bilibili. Feel free to subscribe at my [living site](https://live.bilibili.com/22584735?visit_id=8qrvtfumaoow). Check my **stream** tab for more info. -->

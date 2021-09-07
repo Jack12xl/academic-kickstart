@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 89  # Order that this section will appear in.
 
-title = "I'm a streamer now!"
+title = "~~I'm a streamer now!~~Sorry recently I won't do broadcast till I have time👓"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.

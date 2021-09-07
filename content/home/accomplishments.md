@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-06-24"
   date_end = "2019-07-24"
-  description = "Help solve problems concerned with Unity and game development and judge students' performance. Supervised by [Brian Cox](http://www.briancox.be) from [Ubisoft](https://www.ubisoft.com/en-US/studio/shanghai.aspx)."
+  description = "Help teach students and solve problems concerned with Unity and game development Judge students' homework and grade. Supervised by [Brian Cox](http://www.briancox.be) from [Netease](https://www.neteasegames.com)."
 
 [[item]]
   organization = "Shanghaitech SIST"
@@ -37,6 +37,26 @@ date_format = "Jan 2006"
   date_start = "2019-09-15"
   date_end = ""
   description = "Help solve problems related to computer vision. Supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=en&user=fe-1v0MAAAAJ&view_op=list_works&citft=3&email_for_op=Jack123xieling%40gmail.com&gmla=AJsN-F5FkH9FdHB93Waj6QTAZkpvipFHCLaNNcccwrB4cvWksulC1NYZ7fs50OmGLThGlCBnLSlDOEjqUyhrSEXAQlR30wKQP56WOMB8laQoU2sX3NnqcVKC5Bbe0kyTUY9SxTa2xcDUOHeZL3lOYGEyIoNnBk_t1TdWJAwcGd3AHu_N-cQ26xpECZuIRDFeE10sMvsoDCo04KddE5J-xlbBP4OpjogUuwWtn2d3ZPI28De-WVU_LAMxvofdMnIjRQQzNv-idFJt) from [Shanghaitech](http://www.shanghaitech.edu.cn)"
+
+[[item]]
+  organization = "Upenn School of Engineering and Applied Science"
+  organization_url = "https://www.seas.upenn.edu"
+  title = "CIS 190 C++ programming"
+  url = "https://www.seas.upenn.edu/~cis190/"
+  certificate_url = ""
+  date_start = "2021-09-01"
+  date_end = "2021-12-20"
+  description = "Help teach students with C++ modern feature and grade homework. Supervised by [Paul He](https://paulhe.com) from [Upenn](https://www.seas.upenn.edu)."
+
+[[item]]
+  organization = "Taichi Graphics"
+  organization_url = "https://taichi.graphics"
+  title = "Taichi Course TA"
+  url = "https://forum.taichi.graphics/c/10-category/10"
+  certificate_url = ""
+  date_start = "2021-09-01"
+  date_end = "2021-12-20"
+  description = "Answer questions on Taichi and Graphics. Supervised by [Tiantian liu](https://tiantianliu.cn) from [Taichi Graphics](https://taichi.graphics)."
   
 # [[item]]
 #   organization = "DataCamp"
