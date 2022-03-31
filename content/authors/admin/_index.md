@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Candidate
+role: Master Candidate(to Graduate in May)
 
 # Organizations/Affiliations
 organizations:
