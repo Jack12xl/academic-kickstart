@@ -11,11 +11,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Student
+role: Master Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Upenn
+- name: University of Pennsylvania
   url: "https://www.upenn.edu"
 
 # Short bio (displayed in user profile at end of posts)
