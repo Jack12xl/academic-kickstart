@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Candidate(to Graduate in May)
+role: Master Student(Graduate in May)
 
 # Organizations/Affiliations
 organizations:
@@ -46,9 +46,9 @@ Social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Jack12xl/
-- icon: itch-io
+- icon: linkedin
   icon_pack: fab
-  link: https://jack12xl.itch.io/ 
+  link: https://www.linkedin.com/in/jack12xl/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
