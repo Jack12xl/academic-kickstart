@@ -29,8 +29,8 @@ image:
 #publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-#publication: "PROVISIONALLY Accepted"
-#publication_short: "PROVISIONALLY Accepted"
+publication: "Transactions on Graphics Siggraph 2022"
+publication_short: "Transactions on Graphics Siggraph 2022"
 
 
 
@@ -45,11 +45,11 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/abs/2007.03780
+url_pdf: https://dl.acm.org/doi/10.1145/3470848
 url_code: https://github.com/apchenstu/sofgan
 # url_dataset: '#'
 # url_poster: '#'
-# url_project: ''
+url_project: ''
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'
