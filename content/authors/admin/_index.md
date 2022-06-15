@@ -11,19 +11,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student(Graduate in May)
+role: Graphics programmer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Pennsylvania
-  url: "https://www.upenn.edu"
+- name: Playstation
+  url: "https://www.playstation.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer vision, computer graphics, and Deep learning.
 
 interests:
 - Computer vision (Style transfer & neural rendering)
-- Computer graphics (Physical Simulation)
+- Computer graphics (Physical Simulation & Rendering)
 - Game development(Unity and Unreal)
 
 education:
@@ -33,7 +33,7 @@ education:
     year: 2016-2020
   - course: MS in Computer Science
     institution: University of Pennsylvania
-    year: 2020-now
+    year: 2020-2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,9 +65,11 @@ user_groups:
 - Visitors
 ---
 
-Hi there! I'm currently a graduate candidate at Upenn.
+Hi there! I'm currently a graphics programmer at Playstation.
 
-My research interests include **Computer Vision(deep learning stuff)**, **Computer Graphics(Physical simulation)**.
+My research interests include **Computer Vision(deep learning stuff)**, **Computer Graphics(Physical simulation & Rendering)**.
 
-Besides these research topic, I also interest in playing video games and making my own. 
+Besides these research topic, I also love playing video games and making my own. 
+
+Other interests include but no limit to like cooking, sleeping and badmintons.
 <!-- Sometimes, I would live stream my playing games on Bilibili. Feel free to subscribe at my [living site](https://live.bilibili.com/22584735?visit_id=8qrvtfumaoow). Check my **stream** tab for more info. -->
